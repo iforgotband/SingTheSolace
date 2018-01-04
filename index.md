@@ -21,5 +21,16 @@ Singer is Dot, and the song probably somehow isn't obvious. Sometimes ... you do
 
 <iframe width="100%" height="265" scrolling="no" frameborder="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_6041811?widget_id=55&pwc[included_songs]=1&context_type=page_object&spoid=artist_6041811&pwc[size]=small&pwc[branded]=1" style="width:0px;min-width:100%;max-width:100%;"></iframe>
 
+---
+
+It's far better than your expectations will claim early on. I'm declining payout because I just feel like that gets more exposure, and I want  whoever it is that I was so driven to make this for to see it, if they be lurking.
+
+---
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/378787610&amp;color=%23fd0808&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+
+---
+
+Enjoy.
 
 #### 01012018-etAletAI.
